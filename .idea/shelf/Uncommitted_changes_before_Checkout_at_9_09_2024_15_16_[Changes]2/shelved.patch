@@ -1,0 +1,30 @@
+Index: Ejemploo2.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>def calcular(a, b, c):\r\n    res = a * b + c\r\n    return res\r\n\r\ndef principal():\r\n    x = 5\r\n    y = 3\r\n    z = 7\r\n    resultado = calcular(x, y, z)\r\n    print(\"El resultado es:\", resultado)\r\n\r\nprincipal()\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Ejemploo2.py b/Ejemploo2.py
+--- a/Ejemploo2.py	(revision 4a6742822f9105312f5de7baf6fb65c7b40456bf)
++++ b/Ejemploo2.py	(date 1725913010148)
+@@ -1,12 +1,12 @@
+-def calcular(a, b, c):
+-    res = a * b + c
+-    return res
++def calcular(variable1, variable2, variable3):
++    resultado = variable1 * variable2 + variable3
++    return resultado
+ 
+ def principal():
+-    x = 5
+-    y = 3
+-    z = 7
+-    resultado = calcular(x, y, z)
++    numero1 = float(input("Ingresar numero 1: "))
++    numero2 = float(input("Ingresar numero 2: "))
++    numero3 = float(input("Ingresar numero 3: "))
++    resultado = calcular(numero1, numero2, numero3)
+     print("El resultado es:", resultado)
+ 
+ principal()
