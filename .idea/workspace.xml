@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="209f8a2d-90b4-4fd7-8bb7-4cc7cfa4fb03" name="Changes" comment="Linea base del proyecto">
-      <change beforePath="$PROJECT_DIR$/Ejemploo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo1.py" afterDir="false" />
+    <list default="true" id="209f8a2d-90b4-4fd7-8bb7-4cc7cfa4fb03" name="Changes" comment="Modificacion ejercicio 01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemploo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="refactorizar_ej01" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,10 +34,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Ejemploo1.executor": "Run",
+    "Python.Ejemploo2.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "refactorizar__ej2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -91,22 +94,20 @@
       <option name="project" value="LOCAL" />
       <updated>1725910414793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modificacion ejercicio 01">
+      <option name="closed" value="true" />
+      <created>1725911620069</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725911620069</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Linea base del proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linea base del proyecto" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Modificacion ejercicio 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificacion ejercicio 01" />
   </component>
 </project>
